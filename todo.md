@@ -16,7 +16,7 @@
 
 | Switch | Soldered | Hotswap |
 |---|---|---|
-| Cherry MX | ❌ | ❌ |
+| Cherry MX | ❌ | ✅ |
 | Choc V1 | ❌ | ❌ |
 | Choc V2 | ❌ | ❌ |
 | Choc V1 + V2 | ❌ | ❌ |
