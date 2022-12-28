@@ -16,7 +16,8 @@ Kicad Parts by SCJX
 
 | Switch | Soldered | Hotswap |
 |---|---|---|
-| Cherry MX | [ ] | [ ] |
-| Choc V1 | [ ] | [ ] |
-| Choc V2 | [ ] | [ ] |
-| Choc V1 + V2 | [ ] | [ ] |
+| Cherry MX | ❌ | ❌ |
+| Choc V1 | ❌ | ❌ |
+| Choc V2 | ❌ | ❌ |
+| Choc V1 + V2 | ❌ | ❌ |
+
