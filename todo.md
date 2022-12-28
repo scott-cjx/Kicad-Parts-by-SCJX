@@ -1,14 +1,14 @@
 # Kicad parts to add to this library
 
-Kicad Parts by SCJX
-
 ## Schematic Symbols
 
-- keyswitch
-- stablizers
-- microcontrollers
-  - RP2040
-- rgb leds
+| Symbol | Status |
+|---|---|
+| Keyswitch | ❌ |
+| Stablizer | ❌ |
+| Keyswitch + Stablizer | ❌ |
+| RP2040 | ❌ |
+| USB C | ❌ |
 
 ## PCB Footprints
 
@@ -20,4 +20,3 @@ Kicad Parts by SCJX
 | Choc V1 | ❌ | ❌ |
 | Choc V2 | ❌ | ❌ |
 | Choc V1 + V2 | ❌ | ❌ |
-
