@@ -1,0 +1,1 @@
+# Kicad-Parts-by-SCJX
