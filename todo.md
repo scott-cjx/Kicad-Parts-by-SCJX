@@ -4,7 +4,7 @@
 
 | Symbol | Status |
 |---|---|
-| Keyswitch | ❌ |
+| Keyswitch | ✅ |
 | RP2040 | ❌ |
 | USB C | ❌ |
 
