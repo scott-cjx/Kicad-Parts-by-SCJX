@@ -14,11 +14,12 @@
 
 | Switch | Soldered | Hotswap |
 |---|---|---|
-| Placeholder | ✅ | - |
 | Cherry MX | ❌ | ✅ |
 | Choc V1 | ❌ | ❌ |
 | Choc V2 | ❌ | ❌ |
 | Choc V1 + V2 | ❌ | ❌ |
+| Placeholder | ✅ | - |
+| Plate Cut | ✅ | - |
 
 ### Stablizers
 
